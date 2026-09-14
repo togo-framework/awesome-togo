@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://to-go.dev/togo-mark.svg" alt="togo" height="96" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/assets/togo-mark-dark.svg" /><img src=".github/assets/togo-mark.svg" alt="ToGO" height="96" /></picture>
   <h1>Awesome togo <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"/></a></h1>
   <p><strong>A curated directory of everything in the <a href="https://to-go.dev">togo</a> ecosystem</strong> — the open-source, API-first full-stack Go&nbsp;+&nbsp;React framework with a Laravel-artisan-grade CLI.</p>
   <p>
-    <a href="https://to-go.dev/marketplace"><img src="https://img.shields.io/badge/marketplace-to--go.dev-1FC7DC" /></a>
+    <a href="https://to-go.dev/marketplace"><img src="https://img.shields.io/badge/marketplace-to--go.dev-1F8A99" /></a>
     <img src="https://img.shields.io/badge/plugins-120+-2C7BE2" />
     <a href="https://www.npmjs.com/package/@togo-framework/cli"><img src="https://img.shields.io/npm/v/@togo-framework/cli?label=cli" /></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" /></a>
