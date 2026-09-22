@@ -166,6 +166,7 @@ The framework, CLI, templates and first-party apps.
 - [`payment-paytabs`](https://github.com/togo-framework/payment-paytabs) — PayTabs driver for togo payment
 - [`payment-stripe`](https://github.com/togo-framework/payment-stripe) — Stripe driver for togo payment
 - [`payment-tap`](https://github.com/togo-framework/payment-tap) — Tap driver for togo payment
+- [FeeGuard](https://feeguard.dev) — Checks Stripe Connect refunds and disputes for unreversed transfers, unadjusted application fees, and uncovered platform losses.
 
 ## Deploy
 
